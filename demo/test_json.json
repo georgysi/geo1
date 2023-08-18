@@ -1,0 +1,61 @@
+{
+  "id": "123456",
+  "core": {
+    "cspmAlertId": "78910",
+    "time": "2022-06-30T12:14:19.299Z",
+    "rule": {
+      "id": "D9.AWS.CRY.14",
+      "name": "Use encryption for S3 Bucket write actions",
+      "policyName": "",
+      "policyId": "",
+      "logic": ""
+    },
+    "compliance": {
+      "framework": null,
+      "version": null,
+      "control": null
+    },
+    "asset": {
+      "id": "14968665289",
+      "type": "S3Bucket",
+      "name": "s3bucket-STAGE",
+      "region": "us-east-1",
+      "vpc": "vpc-123456",
+      "tags": [
+        {
+          "key": "Data Sensitivity",
+          "value": "Confidential"
+        },
+        {
+          "key": "Application",
+          "value": "Engine"
+        },
+        {
+          "key": "Owner",
+          "value": "dimar@tamnoon.io"
+        }
+      ]
+    },
+    "cloudAccount": {
+      "provider": "Aws",
+      "id": "12345678900",
+      "name": "Demo Production Account",
+      "org": null
+    }
+  },
+  "general": {
+    "alertCategory": [
+      "Lack of Encryption in transit"
+    ],
+    "cspmRemediation": "",
+    "cspmSeverity": "LOW",
+    "cspmStatus": "OPEN",
+    "asset": null,
+    "taskId": null
+  },
+  "specificVendor": {},
+  "mainScore": {
+    "total_score": null
+  },
+  "created": "2022-09-29 19:06:21.980159-07:00"
+}

@@ -1,0 +1,3 @@
+./mvnw clean install -Pdev
+./mvnw spring-boot:run
+http://localhost:8080/conv

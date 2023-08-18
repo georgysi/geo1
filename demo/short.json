@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "Test User1",
+      "age": 22,
+      "role": "Developer"
+    },
+    {
+      "name": "Test User2",
+      "age": 40,
+      "role": "Analyst"
+    },
+    {
+      "name": "Test User3",
+      "age": 20,
+      "role": "Intern"
+    }
+  ]
+}
