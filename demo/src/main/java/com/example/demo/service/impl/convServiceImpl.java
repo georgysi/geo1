@@ -1,9 +1,6 @@
 package com.example.demo.service.impl;
 
 import com.example.demo.service.convService;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import lombok.Builder;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.io.FileUtils;
 import org.json.CDL;
@@ -14,9 +11,6 @@ import org.springframework.stereotype.Service;
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.*;
 
 @Service
 @Slf4j
