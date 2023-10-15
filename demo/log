@@ -1,0 +1,175 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+       0   66824       0 ?          Sep 12 C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_1da48d5885266bb7\dptf_helper.exe
+       0   66296       0 ?          Sep 12 C:\Windows\System32\sihost.exe
+       0   66704       0 ?          Sep 12 C:\Windows\System32\DriverStore\FileRepository\FN2C8E~1.INF\driver\tposd.exe
+       0   75820       0 ?          Sep 12 C:\Windows\System32\svchost.exe
+       0   77360       0 ?          Sep 12 C:\Windows\System32\svchost.exe
+       0   76600       0 ?          Sep 12 C:\Windows\System32\svchost.exe
+       0   75656       0 ?          Sep 12 C:\Windows\System32\taskhostw.exe
+       0   69732       0 ?          Sep 12 C:\Windows\SysWOW64\Lenovo\PowerMgr\PowerMgr.exe
+       0   67284       0 ?          Sep 12 C:\Windows\explorer.exe
+       0   77416       0 ?          Sep 12 C:\Windows\System32\ctfmon.exe
+       0   67832       0 ?          Sep 12 C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_bd81469b51147524\igfxEM.exe
+       0   74624       0 ?          Sep 12 C:\Windows\System32\SynTPEnh.exe
+       0   70560       0 ?          Sep 12 C:\Windows\System32\svchost.exe
+       0   71868       0 ?          Sep 12 C:\Windows\System32\SynTPHelper.exe
+       0   69168       0 ?          Sep 12 C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+       0   72360       0 ?          Sep 12 C:\Windows\System32\RuntimeBroker.exe
+       0   69428       0 ?          Sep 12 C:\Windows\System32\RuntimeBroker.exe
+       0   78456       0 ?          Sep 12 C:\Windows\System32\RuntimeBroker.exe
+       0   78556       0 ?          Sep 12 C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_bd81469b51147524\igfxext.exe
+       0   78044       0 ?          Sep 12 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+       0   73568       0 ?          Sep 12 C:\Windows\System32\SecurityHealthSystray.exe
+       0   79108       0 ?          Sep 12 C:\Program Files\Metallic\ContentStore\Base\CvEdgeMonitor.exe
+       0   79180       0 ?          Sep 12 C:\Windows\CCM\SCNotification.exe
+       0   79792       0 ?          Sep 12 C:\Program Files\Docker\Docker\Docker Desktop.exe
+       0   73148       0 ?          Sep 12 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+       0   67452       0 ?          Sep 12 C:\Windows\System32\RuntimeBroker.exe
+       0   79008       0 ?          Sep 12 C:\Program Files\Docker\Docker\resources\com.docker.backend.exe
+       0   78988       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   79984       0 ?          Sep 12 C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3408.0_x64__8j3eq9eme6ctt\GCP.ML.BackgroundSysTray\IGCCTray.exe
+       0   67996       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   79724       0 ?          Sep 12 C:\Program Files (x86)\F5 VPN\f5fpclientW.exe
+       0   80456       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   81104       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   81112       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   81156       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   81200       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   81216       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   82300       0 ?          Sep 12 C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_bbb0597391852f64\RtkAudUService64.exe
+       0   81784       0 ?          Sep 12 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   83944       0 ?          Sep 12 C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+       0   83304       0 ?          Sep 12 C:\Program Files\Docker\Docker\resources\com.docker.extensions.exe
+       0   81500       0 ?          Sep 12 C:\Program Files\Docker\Docker\resources\com.docker.dev-envs.exe
+       0   79996       0 ?          Sep 12 C:\Program Files\Docker\Docker\resources\com.docker.build.exe
+       0   84080       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   84572       0 ?          Sep 12 C:\Windows\System32\dllhost.exe
+       0   80408       0 ?          Sep 12 C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+       0   80020       0 ?          Sep 12 C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+       0   84744       0 ?          Sep 12 C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+       0   75760       0 ?          Sep 12 C:\Windows\System32\dllhost.exe
+       0   87012       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslrelay.exe
+       0   86348       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   86460       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   86144       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   80596       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   86504       0 ?          Sep 12 C:\Windows\System32\wsl.exe
+       0   71192       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wsl.exe
+       0   82436       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   75920       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   82548       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   82508       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   71500       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   74828       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   83928       0 ?          Sep 12 C:\Windows\System32\wsl.exe
+       0   77184       0 ?          Sep 12 C:\Windows\System32\wsl.exe
+       0   77940       0 ?          Sep 12 C:\Program Files\Docker\Docker\resources\bin\docker.exe
+       0   66660       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wsl.exe
+       0   77068       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wsl.exe
+       0   71704       0 ?          Sep 12 C:\Program Files\Docker\Docker\resources\com.docker.proxy.exe
+       0   70984       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   75492       0 ?          Sep 12 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+       0   72536       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   73312       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   85488       0 ?          Sep 12 C:\Windows\System32\svchost.exe
+       0   78440       0 ?          Sep 12 C:\Windows\System32\dllhost.exe
+       0   86976       0 ?          Sep 12 C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\bin\idea64.exe
+       0   79352       0 ?          Sep 12 C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\bin\fsnotifier.exe
+       0   78860       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   75160       0 ?          Sep 12 C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\jbr\bin\jcef_helper.exe
+       0   82492       0 ?          Sep 12 C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\jbr\bin\jcef_helper.exe
+       0   76964       0 ?          Sep 12 C:\Program Files (x86)\Mobatek\MobaXterm\MobaXterm.exe
+       0   71780       0 ?          Sep 12 C:\Users\georgys\AppData\Roaming\MobaXterm\slash\bin\XWin_MobaX.exe
+       0   78232       0 ?          Sep 12 C:\Users\georgys\AppData\Roaming\MobaXterm\slash\bin\MoTTYnew.exe
+ GEORGYS      25       1 ?          Sep 12 /drives/c/Users/georgys/AppData/Roaming/MOBAXT~1/slash/bin/cygtermd
+       0   75100       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   74448       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+ GEORGYS      26      25 pty0       Sep 12 /usr/bin/bash
+       0   85840       0 ?          Sep 12 C:\Users\georgys\AppData\Roaming\MobaXterm\slash\bin\MoTTYnew.exe
+ GEORGYS      51       1 ?          Sep 12 /drives/c/Users/georgys/AppData/Roaming/MOBAXT~1/slash/bin/cygtermd
+       0   77724       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+       0   81196       0 ?          Sep 12 C:\Windows\System32\conhost.exe
+ GEORGYS      52      51 pty1       Sep 12 /usr/bin/bash
+       0   85640       0 ?          Sep 12 C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2019.19071.12548.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
+       0   75812       0 ?          Sep 12 C:\Windows\System32\RuntimeBroker.exe
+       0   91112       0 ?          Sep 13 C:\Windows\System32\ApplicationFrameHost.exe
+       0   84212       0 ?          Sep 13 C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+       0   85020       0 ?          Sep 13 C:\Windows\System32\oobe\UserOOBEBroker.exe
+       0   79676       0 ?          Sep 14 C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+       0   70736       0 ?          Sep 15 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\msrdc.exe
+       0   90352       0 ?          Sep 15 C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\msrdc.exe
+       0   91500       0 ?          Sep 15 C:\Windows\System32\taskhostw.exe
+       0   93760       0 ?          Sep 15 C:\Program Files\Common Files\microsoft shared\ClickToRun\AppVShNotify.exe
+       0   90576       0 ?          Sep 15 C:\Windows\System32\CompPkgSrv.exe
+       0   92508       0 ?          Sep 16 C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\jbr\bin\jcef_helper.exe
+       0   92272       0 ?          Sep 17 C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
+       0   92204       0 ?          Sep 17 C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\ai.exe
+       0   93136       0 ?          Sep 17 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\116.0.1938.81\msedgewebview2.exe
+       0   87828       0 ?          Sep 17 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\116.0.1938.81\msedgewebview2.exe
+       0   67580       0 ?          Sep 17 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\116.0.1938.81\msedgewebview2.exe
+       0   91784       0 ?          Sep 17 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\116.0.1938.81\msedgewebview2.exe
+       0   80292       0 ?          Sep 17 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\116.0.1938.81\msedgewebview2.exe
+       0   71088       0 ?          Sep 17 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\116.0.1938.81\msedgewebview2.exe
+       0   93764       0 ?          Sep 17 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   76368       0 ?          Sep 21 C:\Windows\System32\cmd.exe
+       0   79536       0 ?          Sep 21 C:\Windows\System32\conhost.exe
+       0   90536       0 ?          Sep 26 C:\Windows\System32\notepad.exe
+       0   78452       0 ?          Sep 27 C:\Users\georgys\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+       0   78424       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+       0   65796       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+       0   96688       0 ?          Sep 28 C:\Windows\splwow64.exe
+       0   98376       0 ?          Sep 28 C:\Windows\System32\svchost.exe
+       0   97764       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   82868       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   97124       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   86596       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   99020       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   92196       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   70476       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   66684       0 ?          Sep 28 C:\Users\georgys\AppData\Local\Microsoft\OneDrive\23.189.0910.0001\FileCoAuth.exe
+       0   76904       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   76148       0 ?          Sep 28 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrocef_2\RdrCEF.exe
+       0   95204       0 ?          Oct  2 C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+       0   76372       0 ?          Oct  4 C:\Windows\System32\dllhost.exe
+       0   66024       0 ?          Oct  4 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0  101092       0 ?        11:39:10 C:\Users\georgys\AppData\Local\Microsoft\OneDrive\23.189.0910.0001\Microsoft.SharePoint.exe
+       0   96772       0 ?        13:39:01 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   95696       0 ?        13:39:04 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   81664       0 ?        13:43:12 C:\Program Files\MySQL\MySQL Workbench 8.0 CE\MySQLWorkbench.exe
+       0   81760       0 ?        13:51:09 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   98020       0 ?        14:04:37 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+       0  100448       0 ?        14:04:37 C:\Windows\System32\RuntimeBroker.exe
+       0   93360       0 ?        19:01:59 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   87016       0 ?        19:02:03 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   86956       0 ?        19:02:06 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   90500       0 ?        19:02:09 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   86432       0 ?        19:02:23 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   80756       0 ?        19:02:25 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   86352       0 ?        19:02:25 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   80876       0 ?        19:02:34 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   80400       0 ?        19:03:01 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   80868       0 ?        19:04:15 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+       0   91316       0 ?        19:18:29 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   96580       0 ?        19:26:42 C:\Program Files\Java\jdk-20\bin\java.exe
+       0   98128       0 ?        19:30:40 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   77368       0 ?        19:32:57 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   99460       0 ?        20:01:52 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   79392       0 ?        20:01:55 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0  100936       0 ?        20:04:32 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   88924       0 ?        20:07:22 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   84848       0 ?        20:07:52 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0  100668       0 ?        20:11:24 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0  101116       0 ?        20:11:30 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   93300       0 ?        20:11:35 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   92724       0 ?        20:13:51 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   80576       0 ?        20:15:24 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   99856       0 ?        20:15:32 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   92480       0 ?        20:17:54 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   94792       0 ?        20:17:56 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   83248       0 ?        20:20:19 C:\Windows\System32\smartscreen.exe
+       0   89760       0 ?        20:20:22 C:\Users\georgys\.jdks\openjdk-18.0.1.1\bin\java.exe
+       0   94596       0 ?        20:20:22 C:\Windows\System32\conhost.exe
+       0   96436       0 ?        20:21:23 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   73472       0 ?        20:21:36 C:\Program Files\Google\Chrome\Application\chrome.exe
+       0   85200       0 ?        20:21:53 C:\Windows\System32\RuntimeBroker.exe
+ GEORGYS    2484      26 pty0     20:22:05 /usr/bin/ps
