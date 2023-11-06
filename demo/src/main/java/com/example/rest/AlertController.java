@@ -5,6 +5,7 @@ import com.example.dto.responce.AlertCategoryResponse;
 //import io.swagger.v3.oas.annotations.Timed;
 //import io.micrometer.core.annotation.Timed;
 
+import com.google.gson.Gson;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -34,8 +35,7 @@ import com.example.service.AlertService;
 @RequestMapping(path = "v1/alert")
 @ConditionalOnProperty(value = "alert.endpoint.enabled", havingValue = "false")
 @Tag(name = "Alert API Operations", description = "Operations related to Alerts.")
-public class
-AlertController {
+public class AlertController {
 
     @Autowired
     private AlertService alertService;

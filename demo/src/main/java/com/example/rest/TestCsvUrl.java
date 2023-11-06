@@ -29,10 +29,12 @@ public class TestCsvUrl {
                 body("Ack Received message : " + message);
     }*/
     @PostMapping(path = "/subscriber", produces = MediaType.APPLICATION_JSON_VALUE)
-    public Integer testfun(){
-        log.error("Subscriber Received Message : {} Reference traceabilityId {}");
+    public ResponseEntity<String> testfun(@RequestBody String message){
+        log.error("Subscriber Received Message :" +  message + " Reference traceabilityId {}");
 
-        return 270;
+        return ResponseEntity.
+                status(HttpStatus.OK).
+                body("Ack Received message : " + message);
     }
 
 }

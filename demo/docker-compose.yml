@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  #flyway:
+  flyway:
     #image: boxfuse/flyway:5.2.4
     #command: -url=jdbc:mysql://db -schemas=dev_alert -user=root -password=unix11 -connectRetries=60 migrate
     #volumes:
@@ -9,7 +9,7 @@ services:
     #depends_on:
       #- db
   db:
-    image: mysql:latest
+    image: mysql
     environment:
       - MYSQL_DATABASE=dev_alert
       - MYSQL_USER=gsimkin01
